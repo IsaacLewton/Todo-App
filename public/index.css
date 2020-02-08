@@ -1,0 +1,23 @@
+body {
+  background-color: whitesmoke;
+}
+
+.list {
+    background-color: #ebebc5;
+    font-family: sans-serif;
+    color: #424224;
+    font-size: 20px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    padding: 15px;
+    align-items: center;
+    border: 5px double #424224;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
